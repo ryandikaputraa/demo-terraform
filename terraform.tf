@@ -1,7 +1,4 @@
 provider "alicloud"{
-  access_key = "LTAI5tNEpdwiPGzpvMjjaGue"
-  secret_key = "8jjdoZX35ChNHHTXRT7G02KNO4tEQA"
-  region     = "ap-southeast-5"
 }
 
 # Create a VPC
